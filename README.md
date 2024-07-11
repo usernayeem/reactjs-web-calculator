@@ -2,7 +2,7 @@
 
 ## Authors
 
- [@md5nayeem](https://www.github.com/md5nayeem)
+ [MD Nayeem](https://www.github.com/usernayeem)
 
 ## About
 
@@ -18,7 +18,7 @@ https://reactjs-web-calculator.netlify.app
 
 To install this application, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/md5nayeem/reactjs-web-calculator`
+1. Clone this repository: `git clone https://github.com/usernayeem/reactjs-web-calculator`
 2. Navigate to the project directory: `cd reactjs-web-calculator`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
